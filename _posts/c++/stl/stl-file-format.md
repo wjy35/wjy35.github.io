@@ -1,13 +1,14 @@
 ---
 layout: post
-title:
-subtitle: library or class
+title: queue class
+subtitle: library
 category: c++
 tags: stl
 ---
 <style>
 blockquote {
-  border-left: 4px solid #A6CAE5;
+  margin-left: 0px;
+  border-left: 5px solid #A6CAE5;
 }
 .a {
   color: rgb(166,202,229);

@@ -5,7 +5,6 @@ subtitle: library
 category: c++
 tags: stl
 ---
-
 <style>
 blockquote {
   margin-left: 0px;
@@ -18,36 +17,30 @@ blockquote {
 </style>
 
 > **Description** <br><br>
-> class queue in [queue](https://velog.io/@wangsun7/queue) library<br>
+> class queue in <[queue](https://velog.io/@wangsun7/queue)> library<br>
 
 * this ordered seed list will be replaced by the toc
 {:toc}
-# class
 
-### Syntax
+# Syntax
 
 ```c++
 template <class Type, class Container = deque <Type>>
 class queue
 ```
 
-### Constructor
+# Constructor
+
 ```c++
 queue();
-
+```
+```c++
 explicit queue(const container_type& right);
 ```
 
-- Example
+# Typedefs
 
-```c++
-int main(){
-    queue<int> q;
-}
-```
-
-### Typedefs
-
+### Implement
 ```c++
 template <class _Tp, class _Container /*= deque<_Tp>*/>
 class _LIBCPP_TEMPLATE_VIS queue
@@ -60,13 +53,12 @@ public:
     typedef typename container_type::size_type       size_type;
     
 /**
-*
-*the rest is omitted
+* the rest is omitted
 */
 
 }
 ```
-### Typedefs table
+### Typedefs Table
 
 | Name |Description|
 |:-------------|:----------|
@@ -75,8 +67,6 @@ public:
 | size_type | element의 size를 표현하기 위한 unsigned int |
 | reference | element의 reference type |
 | const_reference | element의 const reference type |
-
-
 
 
 # Functions
