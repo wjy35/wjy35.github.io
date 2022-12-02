@@ -7,4 +7,5 @@ category: algorithm
 sidebar: true
 order: 2
 description: >
+    Algorithm Problem Solving Process
 ---
