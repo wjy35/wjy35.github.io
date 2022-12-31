@@ -5,16 +5,6 @@ subtitle: library
 category: c++
 tags: stl
 ---
-<style>
-blockquote {
-  margin-left: 0px;
-  border-left: 5px solid #A6CAE5;
-}
-.a {
-  color: rgb(166,202,229);
-  text-decoration-color : rgb(166,202,229);
-}
-</style>
 
 > **Description** <br><br>
 > class priority_queue in <[queue](https://velog.io/@wangsun7/queue)> library<br>

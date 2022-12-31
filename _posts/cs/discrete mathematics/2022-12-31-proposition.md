@@ -4,7 +4,6 @@ title: Proposition
 subtitle: proposition
 category: cs
 tags: discrete-mathematics
-date: 2016-03-23T10:20:00Z
 ---
 
 > **Description** <br><br>
