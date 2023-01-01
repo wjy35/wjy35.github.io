@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: STL
 slug: stl
-category: c++
+category: cpp
 sidebar: true
 order: 1
 description: > 

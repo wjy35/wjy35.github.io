@@ -1,8 +1,8 @@
 ---
 layout: post
 title: priority_queue class
-subtitle: library
-category: c++
+subtitle: class
+category: cpp
 tags: stl
 ---
 

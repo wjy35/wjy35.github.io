@@ -2,7 +2,7 @@
 layout: post
 title: algorithm
 subtitle: library
-category: c++
+category: cpp
 tags: stl
 ---
 

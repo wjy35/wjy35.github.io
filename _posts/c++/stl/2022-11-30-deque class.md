@@ -2,7 +2,7 @@
 layout: post
 title: deque class
 subtitle: class
-category: c++
+category: cpp
 tags: stl
 ---
 
