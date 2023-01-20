@@ -57,7 +57,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023. All rights reserved.
+copyright:             © 23. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:title/
@@ -166,7 +166,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+# disqus:                wjy35
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!

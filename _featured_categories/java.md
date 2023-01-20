@@ -1,11 +1,11 @@
 ---
 layout: category
 type: category
-title: CS
-slug: cs
+title: Java
+slug: java
 sidebar: true
-order: 3
-tags: []
+order: 1
+tags: [basic,class,sutdy]
 description: >
-    Computer Science
+    Java
 ---

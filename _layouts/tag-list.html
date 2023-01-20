@@ -20,7 +20,7 @@ layout: page
 {{ content }}
 
 {% assign posts = site.tags[page.slug] %}
-{% assign list_entry    = date_formats.list_entry    | default:"%d %b" %}
+{% assign list_entry    = date_formats.list_entry    | default:"%F" %}
 {% for post in posts %}
 <ul class="related-posts">
 {% include components/post-list-item.html post=post format=list_entry %}

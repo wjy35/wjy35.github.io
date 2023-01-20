@@ -12,6 +12,8 @@
     margin: 1rem 0;
   }
 }
+
+// blockquote
 blockquote {
   margin-left: 0px;
   border-left: 5px solid #A6CAE5;
@@ -21,9 +23,12 @@ blockquote {
   text-decoration-color : rgb(166,202,229);
 }
 
+// code block
 pre.highlight{
   margin-left: 0.07rem;
 }
+
+//table
 table{
   padding-left: 1rem;
 }

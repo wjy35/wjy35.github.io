@@ -31,7 +31,7 @@ permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
-toc:                   Table of Contents
+toc:                   Contents
 note:                  Note
 description:           Description
 search:                Search
@@ -88,7 +88,7 @@ date_formats:
   post:                '%F'
   last_modified_at:    '%F'
   related_post:        '%F'
-  list_group_by:       '%Y-%m'
+  list_group_by:       '%F'
   list_entry:          '%F'
   project:             ''
   projects_group_by:   ''
