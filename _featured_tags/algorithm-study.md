@@ -2,10 +2,10 @@
 layout: tag-list
 type: tag
 title: Study
-slug: study
-category: java
+slug: algorithm-study
+category: algorithm
 sidebar: true
 order: 3
 description: >
-    Java Study 정리
+    Algorithm Study 정리
 ---

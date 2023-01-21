@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: Class
+title: class
 slug: class
 category: java
 sidebar: true

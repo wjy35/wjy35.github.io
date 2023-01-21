@@ -5,12 +5,14 @@ layout: page
 {{content}}
 {% assign tags = page.tags %}
 {% assign list_entry    = date_formats.list_entry    | default:"%F" %}
-
 {% for tag in tags %}
-    <h2><a href="{{site.url}}/tag-{{tag}}" style="text-decoration: none">{{tag | capitalize}}</a><hr></h2>
-{% assign posts = site.tags[tag] %}
+
+
+{%assign title_link = page.title|downcase | append:"-" |append:tag|downcase%}
+    <h2><a href="{{site.url}}/tag-{{title_link}}" style="text-decoration: none">{{tag}}</a><hr></h2>
+{% assign posts = site.tags[title_link] %}
 {% for post in posts %}
-<ul class="related-posts">{% include components/post-list-item.html post=post format=list_entry %}
+<ul class="related-posts">{% include post-list-item.html post=post format=list_entry %}
 </ul>
 {% endfor %}
 {% endfor %}

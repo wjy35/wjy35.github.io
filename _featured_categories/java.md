@@ -5,7 +5,7 @@ title: Java
 slug: java
 sidebar: true
 order: 1
-tags: [basic,class,sutdy]
+tags: [Basic,class,Study]
 description: >
     Java
 ---

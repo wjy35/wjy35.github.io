@@ -20,18 +20,18 @@
 lang:                  ko-KR, en, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 📋 Study Logs
+title:                  JunYoung
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+#  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+#  with a focus on personal sites that are meant to impress.
 # A shorter description for the sidebar.
 tagline:              Even better<br>
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [ssafy,algorithm,java,cpp,c++,cs,network,computer]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -419,3 +419,6 @@ feed:
   categories:
     - c++
     - algorithm
+    - java
+    - cs
+    - ssafy

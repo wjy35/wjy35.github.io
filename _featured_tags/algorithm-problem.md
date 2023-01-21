@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Problem
-slug: problem
+slug: algorithm-problem
 category: algorithm
 sidebar: true
 order: 2

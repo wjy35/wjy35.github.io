@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Computer Architecture
-slug: computer architecture
+slug: computer-architecture
 category: cs
 sidebar: true
 order: 3

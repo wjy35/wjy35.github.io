@@ -5,6 +5,6 @@ title: Algorithm
 slug: algorithm
 sidebar: true
 order: 2
-tags: [concept,problem]
+tags: [Concept,Problem,Study]
 description: >
 ---
